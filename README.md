@@ -38,7 +38,7 @@ The PySpark library to classify recognized keywords into crime categories.
 7. PySpark library
 8. en__blackstone_proto model
 
-##Installations
+## Installations
 1. tesseract ocr model
 2. pytesseract library
 3. en__blackstone_proto model
@@ -50,5 +50,9 @@ The PySpark library to classify recognized keywords into crime categories.
 We used the PySpark library and implemented our third objective, i.e., classifying the keywords into crime categories.
 The first two objectives were made in a previous project.
 
+## Presentation link:
+https://www.canva.com/design/DAF_s3g85ks/k55Opb96LNbcqh9ERr-BYA/edit?utm_content=DAF_s3g85ks&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+## Video link:
+https://youtu.be/CjUnh2fYl9s?si=7xElICepuaTMc01h
 
