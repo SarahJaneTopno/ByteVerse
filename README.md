@@ -24,9 +24,31 @@ We used the Tesseract OCR API and Pytesseract to extract text from images and st
    
 ### 2. Text Analysis
 The spaCy library was used to analyze the text. Then the ‘en_blackstone_proto’ model was utilized to extract legal keywords from the extracted text.
-    
 
+### 3. Text Classification
+The PySpark library to classify recognized keywords into crime categories. 
 
+## Tech Stack:
+1. Python
+2. Pandas library
+3. Numpy library
+4. Tesseract OCR model
+5. pytesseract library
+6. spaCy library
+7. PySpark library
+8. en__blackstone_proto model
+
+##Installations
+1. tesseract ocr model
+2. pytesseract library
+3. en__blackstone_proto model
+4. spaCy libray
+5. PySpark library
+   ** Everything was installed using the 'pip' command**
+
+## This project was built before but has been enhanced during this hackathon
+We used the PySpark library and implemented our third objective, i.e., classifying the keywords into crime categories.
+The first two objectives were made in a previous project.
 
 
 
